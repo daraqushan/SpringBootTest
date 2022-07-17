@@ -8,8 +8,9 @@ public class MessageRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		int a=20;
 		System.out.println("Welcome!");
-		System.out.println("Welcome!");
+		
 
 
 	}
